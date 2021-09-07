@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @scarletthead (she/her/hers)
+- 👀 I’m interested in data science business analytics
+- 🌱 I’m currently learning machine learning; tableau
+- 💞️ I’m looking to collaborate on #100DaysOfCode
